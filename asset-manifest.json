@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/passvault-web/static/js/app.814cf032.chunk.js",
-    "app.js.map": "/passvault-web/static/js/app.814cf032.chunk.js.map",
+    "app.js": "/passvault-web/static/js/app.63328d50.chunk.js",
+    "app.js.map": "/passvault-web/static/js/app.63328d50.chunk.js.map",
     "runtime~app.js": "/passvault-web/static/js/runtime~app.82dd30b0.js",
     "runtime~app.js.map": "/passvault-web/static/js/runtime~app.82dd30b0.js.map",
-    "static/js/2.9840ea97.chunk.js": "/passvault-web/static/js/2.9840ea97.chunk.js",
-    "static/js/2.9840ea97.chunk.js.map": "/passvault-web/static/js/2.9840ea97.chunk.js.map",
+    "static/js/2.98067a3a.chunk.js": "/passvault-web/static/js/2.98067a3a.chunk.js",
+    "static/js/2.98067a3a.chunk.js.map": "/passvault-web/static/js/2.98067a3a.chunk.js.map",
     "fonts/AntDesign.ttf": "/passvault-web/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/passvault-web/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/passvault-web/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/passvault-web/index.html",
     "manifest.json": "/passvault-web/manifest.json",
     "serve.json": "/passvault-web/serve.json",
-    "static/js/2.9840ea97.chunk.js.LICENSE.txt": "/passvault-web/static/js/2.9840ea97.chunk.js.LICENSE.txt",
+    "static/js/2.98067a3a.chunk.js.LICENSE.txt": "/passvault-web/static/js/2.98067a3a.chunk.js.LICENSE.txt",
     "static/media/amazon.png": "/passvault-web/static/media/amazon.4c033704.png",
     "static/media/discord.png": "/passvault-web/static/media/discord.17c0e41c.png",
     "static/media/google.png": "/passvault-web/static/media/google.647ac848.png",
@@ -36,7 +36,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.82dd30b0.js",
-    "static/js/2.9840ea97.chunk.js",
-    "static/js/app.814cf032.chunk.js"
+    "static/js/2.98067a3a.chunk.js",
+    "static/js/app.63328d50.chunk.js"
   ]
 }
